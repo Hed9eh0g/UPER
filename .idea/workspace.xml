@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ee940089-3fde-4249-afe0-b7929de5fc3c" name="变更" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2U34qkZMFcdgQfXZscHxZ0KZUbT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/DELL/Desktop/UPER/Malware&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL\Desktop\UPER\Malware" />
+      <recent name="C:\Users\DELL\Desktop\UPER\dataset" />
+      <recent name="C:\Users\Administrator\Desktop\HUPOERM" />
+      <recent name="D:\HUPOERM" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL\Desktop\UPER\Malware" />
+      <recent name="C:\Users\Administrator\Desktop\UPER\dataset" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MainTestUPER" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainTestUPER" />
+      <module name="UPER" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainTestUPER" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="ee940089-3fde-4249-afe0-b7929de5fc3c" name="变更" comment="" />
+      <created>1692155128424</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692155128424</updated>
+      <workItem from="1692155131041" duration="28404000" />
+      <workItem from="1692258869508" duration="31955000" />
+      <workItem from="1692417393962" duration="25166000" />
+      <workItem from="1692517181269" duration="10854000" />
+      <workItem from="1692583766314" duration="1034000" />
+      <workItem from="1692603272255" duration="23007000" />
+      <workItem from="1692778319870" duration="33753000" />
+      <workItem from="1694654699837" duration="1846000" />
+      <workItem from="1694656585555" duration="21172000" />
+      <workItem from="1694743380378" duration="41179000" />
+      <workItem from="1694932360304" duration="714000" />
+      <workItem from="1694933643852" duration="547000" />
+      <workItem from="1694934212660" duration="63750000" />
+      <workItem from="1695212616702" duration="32610000" />
+      <workItem from="1695427892067" duration="53756000" />
+      <workItem from="1695691075801" duration="38905000" />
+      <workItem from="1695863478211" duration="25069000" />
+      <workItem from="1695999011347" duration="12232000" />
+      <workItem from="1696078182959" duration="4754000" />
+      <workItem from="1696084488855" duration="10810000" />
+      <workItem from="1696145419653" duration="30956000" />
+      <workItem from="1696294273925" duration="30021000" />
+      <workItem from="1696384972529" duration="5011000" />
+      <workItem from="1696394225898" duration="6633000" />
+      <workItem from="1696406895249" duration="102444000" />
+      <workItem from="1697158647595" duration="16270000" />
+      <workItem from="1697249328093" duration="7722000" />
+      <workItem from="1697261107497" duration="17383000" />
+      <workItem from="1697790294149" duration="647000" />
+      <workItem from="1697951797572" duration="2932000" />
+      <workItem from="1698908511935" duration="8362000" />
+      <workItem from="1698924574869" duration="199000" />
+      <workItem from="1698925398235" duration="802000" />
+      <workItem from="1701954460368" duration="782000" />
+      <workItem from="1703773755820" duration="1225000" />
+      <workItem from="1705459624216" duration="13000" />
+      <workItem from="1705459859364" duration="17000" />
+      <workItem from="1705461204157" duration="5000" />
+      <workItem from="1705461430738" duration="7000" />
+      <workItem from="1705471047591" duration="9793000" />
+      <workItem from="1705485406282" duration="24211000" />
+      <workItem from="1705675276007" duration="55000" />
+      <workItem from="1742385124553" duration="19650000" />
+      <workItem from="1742452538866" duration="7000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="4" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
